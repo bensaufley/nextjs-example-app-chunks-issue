@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@ducks": ["./ducks/*"],
+      "@lib": ["./lib/*"],
+      "@pages": ["./pages/*"]
+    }
+  }
+}

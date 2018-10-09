@@ -1,0 +1,22 @@
+{
+  "name": "example-next-app-chunks-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "next",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-plugin-module-resolver": "^3.1.1",
+    "next": "^7.0.1",
+    "next-redux-wrapper": "^2.0.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0"
+  }
+}
